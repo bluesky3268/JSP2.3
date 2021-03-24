@@ -22,4 +22,23 @@
  	<param-value>5</param-value>
  </context-param>
   
+  <error-page>
+  	<error-code>404</error-code>
+  	<location>/ch06/error/error404.jsp</location>
+  </error-page>
+ 
+  <error-page>
+  	<exception-type>java.lang.NullPointerException</exception-type>
+	<location>/ch06/error/errorNullPointer</location>
+  </error-page>
+  
+  <jsp-config>
+  	<jsp-property-group>
+  		<url-pattern>/ch07/view/*</url-pattern>
+  		<include-prelude>/ch07/common/variable.jspf</include-prelude>
+  		<include-coda>/ch07/common/footer.jspf</include-coda>
+  	</jsp-property-group>
+  </jsp-config>
+  
+  
 </web-app>

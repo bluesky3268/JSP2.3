@@ -161,7 +161,7 @@
        
        
                
-      <Context docBase="part1" path="/part1" reloadable="true" source="org.eclipse.jst.jee.server:part1"/><Context docBase="part2" path="/part2" reloadable="true" source="org.eclipse.jst.jee.server:part2"/><Context docBase="ch14" path="/ch14" reloadable="true" source="org.eclipse.jst.jee.server:ch14"/></Host>
+      <Context docBase="part1" path="/part1" reloadable="true" source="org.eclipse.jst.jee.server:part1"/><Context docBase="part2" path="/part2" reloadable="true" source="org.eclipse.jst.jee.server:part2"/><Context docBase="ch14" path="/ch14" reloadable="true" source="org.eclipse.jst.jee.server:ch14"/><Context docBase="ch15" path="/ch15" reloadable="true" source="org.eclipse.jst.jee.server:ch15"/></Host>
     </Engine>
   </Service>
 </Server>

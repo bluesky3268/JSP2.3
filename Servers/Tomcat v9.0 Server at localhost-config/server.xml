@@ -161,7 +161,7 @@
        
        
                
-      <Context docBase="part1" path="/part1" reloadable="true" source="org.eclipse.jst.jee.server:part1"/><Context docBase="part2" path="/part2" reloadable="true" source="org.eclipse.jst.jee.server:part2"/><Context docBase="ch14" path="/ch14" reloadable="true" source="org.eclipse.jst.jee.server:ch14"/><Context docBase="ch15" path="/ch15" reloadable="true" source="org.eclipse.jst.jee.server:ch15"/><Context docBase="ch16" path="/ch16" reloadable="true" source="org.eclipse.jst.jee.server:ch16"/><Context docBase="ch17" path="/ch17" reloadable="true" source="org.eclipse.jst.jee.server:ch17"/><Context docBase="ch18" path="/ch18" reloadable="true" source="org.eclipse.jst.jee.server:ch18"/><Context docBase="ch19" path="/ch19" reloadable="true" source="org.eclipse.jst.jee.server:ch19"/></Host>
+      <Context docBase="part1" path="/part1" reloadable="true" source="org.eclipse.jst.jee.server:part1"/><Context docBase="part2" path="/part2" reloadable="true" source="org.eclipse.jst.jee.server:part2"/><Context docBase="ch14" path="/ch14" reloadable="true" source="org.eclipse.jst.jee.server:ch14"/><Context docBase="ch15" path="/ch15" reloadable="true" source="org.eclipse.jst.jee.server:ch15"/><Context docBase="ch16" path="/ch16" reloadable="true" source="org.eclipse.jst.jee.server:ch16"/><Context docBase="ch17" path="/ch17" reloadable="true" source="org.eclipse.jst.jee.server:ch17"/><Context docBase="ch18" path="/ch18" reloadable="true" source="org.eclipse.jst.jee.server:ch18"/><Context docBase="ch19" path="/ch19" reloadable="true" source="org.eclipse.jst.jee.server:ch19"/><Context docBase="board" path="/board" reloadable="true" source="org.eclipse.jst.jee.server:board"/></Host>
     </Engine>
   </Service>
 </Server>
